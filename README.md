@@ -1,5 +1,5 @@
 # Movie_Recommendation_System
-In this Project i am doing with simple Python.
+In this Project i am doing with simple Python Code.
 
 ## I am taken two datasets for Recommendation.
   ## 1. UserData.csv
